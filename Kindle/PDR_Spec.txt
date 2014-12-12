@@ -1,0 +1,1 @@
+Header:DEADCABB01Last Page #: 4 bytes# of Bookmarks: 4 bytes00 (1 Byte of Space)0-indexed page of bookmark: 4 bytes# of Characters in Page #: 2 bytesPage # (string): ASCII, arbitrary length

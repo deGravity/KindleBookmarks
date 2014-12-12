@@ -1,0 +1,7 @@
+Make Contents GUI Version
+Loads a PDF document, and optionally a table of contents file.
+If PDF has a table of contents, read that as the table of contents file.
+Allows user to browse pdf and add in bookmarks.
+Allows user to browse bookmarks, clicking them to load that page of the PDF, or changing their indentation level.
+Allows user to save bookmark file.
+Exports a pdr file with the same name as the PDF.
